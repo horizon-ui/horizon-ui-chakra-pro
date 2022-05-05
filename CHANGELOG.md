@@ -1,3 +1,9 @@
+## [1.0.2] 2022-05-04
+
+### New page added & multiple bugs solved
+
+- 🟢 New page added - “News Feed" page added - see it live here: https://horizon-ui.com/chakra-pro/#/admin/main/profile/newsfeed
+
 ## [1.0.1] 2022-04-26
 
 ### Multiple design bugs on mobile solved
