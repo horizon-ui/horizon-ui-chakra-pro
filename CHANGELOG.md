@@ -1,3 +1,17 @@
+# Changelog
+
+## [1.0.4] 2022-06-02
+
+### 404 page added
+
+- 🟢 New page added - “404" page added - see it live here: https://horizon-ui.com/chakra-pro/#/admin/main/others/404
+
+## [1.0.3] 2022-05-16
+
+### RTL page added & useLocation bug solved
+
+- 🟢 New page added - “RTL" page added - see it live here: https://horizon-ui.com/chakra-pro/#/rtl/dashboards/rtl
+
 ## [1.0.2] 2022-05-04
 
 ### New page added & multiple bugs solved
