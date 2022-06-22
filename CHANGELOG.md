@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5] 2022-06-22
+
+### Credit Card design updated
+
+- Credit card background updated to the latest design trends.
+- Solved problem with "Credit Balance" numbers from Figma design.
+
 ## [1.0.4] 2022-06-02
 
 ### 404 page added
