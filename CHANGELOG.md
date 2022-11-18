@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.1.0] 2022-11-18
+
+### Chat Messages page added
+
+- 🟢 New page added - Chat Messages" page added - see it live here: https://horizon-ui.com/chakra-pro/#/admin/main/others/messages
+
 ## [1.0.5] 2022-06-22
 
 ### Credit Card design updated
