@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.2.0] 2023-03-16
+### Bugs fixing - Fixed ‘npm install’ error”
+
+
 ## [1.1.0] 2022-11-18
 
 ### Chat Messages page added
