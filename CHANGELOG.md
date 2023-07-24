@@ -1,4 +1,11 @@
 # Changelog
+## [2.0.0] 2023-07-24
+### Huge Update: v2.0.0
+- 🟢 Added the new Configurator
+- 🟢 ReactJS updated to v18
+- 🟢 Chakra UI updated to v2
+- Multiple design bugs fixing
+
 
 ## [1.2.0] 2023-03-16
 ### Bugs fixing - Fixed ‘npm install’ error”
