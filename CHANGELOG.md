@@ -1,4 +1,10 @@
 # Changelog
+## [2.1.0] 2023-10-23
+
+### Kanban fully updated
+
+- 🟢 Added the new Kanban
+
 ## [2.0.0] 2023-07-24
 ### Huge Update: v2.0.0
 - 🟢 Added the new Configurator
