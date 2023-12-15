@@ -1,4 +1,8 @@
 # Changelog
+## [2.1.1] 2023-10-23
+
+### Charts reversed
+
 ## [2.1.0] 2023-10-23
 
 ### Kanban fully updated
