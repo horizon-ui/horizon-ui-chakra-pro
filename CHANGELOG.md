@@ -1,8 +1,13 @@
 # Changelog
+## [2.2.0] 2024-04-23
+
+### Fixed startup error. 
+## [2.1.2] 2024-02-19
+
+### Sidebar accordions stay open for active route on refresh.
 ## [2.1.1] 2023-12-15
 
 ### Charts reversed
-
 ## [2.1.0] 2023-10-23
 
 ### Kanban fully updated
