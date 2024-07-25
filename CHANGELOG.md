@@ -1,4 +1,8 @@
 # Changelog
+## [2.3.0] 2024-07-25
+
+### Updated tables to Tanstack V8
+
 ## [2.2.0] 2024-04-23
 
 ### Fixed startup error. 
